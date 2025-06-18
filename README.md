@@ -1,4 +1,4 @@
-<h2 align="left">Olá! Meu nome é Pedro e serei um futuro Indie Hacker! 👨‍💻</h2>
+<h2 align="left">Hello! My name is Pedro and I will be a future Indie Hacker! 👨‍💻</h2>
 
 ###
 
