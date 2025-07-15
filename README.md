@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Pedro, welcome to my world! 👾</h2>
+<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
 
 ###
 
@@ -9,12 +9,18 @@
 
 ###
 
+<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxNWF4Y2tkbGt1OHdrdTBzcHkyZHNjdTNnbW54ZGVmYzA4YWNmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
+
+###
+
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="30" alt="docker logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="30" alt="linux logo"  />
 </div>
 
 ###
@@ -33,9 +39,7 @@
 
 ###
 
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWphcXplYjlreHI1MW5hajRjc2hxaGF5Y2NsbnozYno2dTdocDkzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
-
-###
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ppodev7/ppodev7/output/snake.svg" alt="Snake animation" />
 
