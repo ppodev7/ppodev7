@@ -4,7 +4,6 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=ppodev7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://streak-stats.demolab.com?user=ppodev7&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5" height="150" alt="streak graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppodev7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
@@ -17,12 +16,6 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="30" alt="go logo"  />
 </div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWphcXplYjlreHI1MW5hajRjc2hxaGF5Y2NsbnozYno2dTdocDkzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
 
 ###
 
@@ -40,7 +33,9 @@
 
 ###
 
-<br clear="both">
+<img align="right" height="200" src="https://media.giphy.com/media/v1.Y2lkPWVjZjA1ZTQ3bWphcXplYjlreHI1MW5hajRjc2hxaGF5Y2NsbnozYno2dTdocDkzYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
+
+###
 
 <img src="https://raw.githubusercontent.com/ppodev7/ppodev7/output/snake.svg" alt="Snake animation" />
 
