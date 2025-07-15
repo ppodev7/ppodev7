@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Pedro! Welcome to my world!</h2>
+<h2 align="left">Hi! My name is Pedro! Welcome to my World</h2>
 
 ###
 
@@ -6,10 +6,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=ppodev7&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="150" alt="stats graph"  />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ppodev7&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-###
-
-<img align="right" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxNWF4Y2tkbGt1OHdrdTBzcHkyZHNjdTNnbW54ZGVmYzA4YWNmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
 
 ###
 
@@ -38,6 +34,14 @@
 </div>
 
 ###
+
+<div align="center">
+  <img height="400" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMzYxNWF4Y2tkbGt1OHdrdTBzcHkyZHNjdTNnbW54ZGVmYzA4YWNmbSZlcD12MV9naWZzX3NlYXJjaCZjdD1n/Dgm1MHwAcMQGaZzSjq/giphy.gif"  />
+</div>
+
+###
+
+<br clear="both">
 
 <img src="https://raw.githubusercontent.com/ppodev7/ppodev7/output/snake.svg" alt="Snake animation" />
 
