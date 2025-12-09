@@ -15,7 +15,6 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ppodev7&show_icons=true&theme=gotham&hide_border=false&hide_rank=false&cache_seconds=7200&v=3" height="150" alt="GitHub stats" />
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ppodev7&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&cache_seconds=7200&v=3" height="150" alt="Top languages" />
 </div>
 
