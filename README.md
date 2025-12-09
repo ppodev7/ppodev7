@@ -38,6 +38,8 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
 ###
 
 <div align="center">
+  <img src="https://skillicons.dev/icons?i=node" height="40" alt="Node logo" />
+  <img width="12" />  
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=css" height="40" alt="Python logo" />
