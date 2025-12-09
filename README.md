@@ -25,10 +25,10 @@
 ###
 
 <p align="center">
-Hi! I'm Pedro Fidelis Mandoti! A technology enthusiast driven by curiosity and proactivity when it comes to learning and evolving.<br><br>
-I'm currently pursuing a degree in Systems Analysis and Development at UNICID, and I'm deeply immersed in the Python ecosystem, exploring its capabilities in building solutions. However, I'm not limiting myself to a single stack. I'm constantly expanding my skill set and exploring new technologies.<br><br>
-I'm passionate about problem-solving, a big fan of Batman, and a proud dog lover.<br><br>
-This is just the beginning of my journey in tech. Feel free to explore my projects! I hope you enjoy them as much as I enjoyed building them.
+Hi! I'm Pedro Fidelis Mandoti! A technology enthusiast driven by curiosity and proactivity when it comes to learning and evolving.
+I'm currently pursuing a degree in Systems Analysis and Development at UNICID and I'm deeply immersed in the Python ecosystem, using it to build robust and efficient solutions. That said, I'm not tied to a single stack: I also master Node.js with React on the frontend, and my main goal right now is to become a complete full-stack developer, connecting powerful back-ends with modern, high-performance interfaces.
+I'm passionate about problem-solving, a die-hard Batman fan, and a proud dog lover 🦇🐶.
+This is just the beginning of my journey in tech. Feel free to check out my projects — I hope you enjoy them as much as I enjoyed building them! 🚀
 </p>
 
 ###
