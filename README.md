@@ -52,5 +52,8 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
 </div>
 <h2 align="left"> 🌐 Let's Connect </h2>
 <div align="center">
-  <a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/770984336660627477" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord logo" /></a>
+  <table><tr>
+    <td><a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn" /></a></td>
+    <td><a href="https://discord.com/users/770984336660627477" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord" /></a></td>
+  </tr></table>
 </div>
