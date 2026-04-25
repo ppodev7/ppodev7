@@ -55,6 +55,7 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
   <a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
   </a>
+  
   <a href="https://discord.com/users/770984336660627477" target="_blank">
     <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord logo" />
   </a>
