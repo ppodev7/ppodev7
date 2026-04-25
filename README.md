@@ -8,22 +8,17 @@
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWY2d2htemxwYTB3dTY3Z2IwZHpjYWJ5MzhiaGRka3B3MXo3Y285biZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Dgm1MHwAcMQGaZzSjq/giphy.gif" width="300" alt="Batman Coding" />
 </div>
 <h2 align="left"> 🚀 Performance Highlights </h2>
-###
 <div align="center">
   <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=ppodev7&layout=compact&card_width=320&langs_count=8&theme=gotham&hide_border=false&cache_seconds=7200&v=3" height="150" alt="Top languages" />
 </div>
-###
 <h2 align="left"> 🎯 Personal Snapshot </h2>
-###
 <p align="center">
 Hi! I'm Pedro Fidelis Mandoti! A technology enthusiast driven by curiosity and proactivity when it comes to learning and evolving.
 I'm currently pursuing a degree in Systems Analysis and Development at UNICID and I'm deeply immersed in the Python ecosystem, using it to build robust and efficient solutions. That said, I'm not tied to a single stack: I also master Node.js with React on the frontend, and my main goal right now is to become a complete full-stack developer, connecting powerful back-ends with modern, high-performance interfaces.
 I'm passionate about problem-solving, a die-hard Batman fan, and a proud dog lover 🦇🐶.
 This is just the beginning of my journey in tech. Feel free to check out my projects — I hope you enjoy them as much as I enjoyed building them! 🚀
 </p>
-###
 <h2 align="left"> 🔧 Technical Arsenal </h2>
-###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=node" height="40" alt="Node logo" />
   <img width="12" />  
@@ -35,9 +30,7 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
 </div>
-###
 <h2 align="left"> ⚙️ Development Toolkit </h2>
-###
 <div align="center">
   <img src="https://skillicons.dev/icons?i=pycharm" height="40" alt="PyCharm logo" />
   <img width="12" />
@@ -57,9 +50,7 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
 </div>
-###
 <h2 align="left"> 🌐 Let's Connect </h2>
-###
 <div align="center" style="display:flex; justify-content:center; gap:12px;">
   <a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
@@ -68,5 +59,4 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
     <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord logo" />
   </a>
 </div>
-###
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2AA889&height=100&section=footer" />
