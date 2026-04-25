@@ -42,9 +42,9 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
   <img width="12" />  
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="Python logo" />
   <img width="12" />  
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="Python logo" />
-  <img width="12" />
   <img src="https://skillicons.dev/icons?i=html" height="40" alt="HTML logo" />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="Java logo" />
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=js" height="40" alt="JavaScript logo" />
 </div>
