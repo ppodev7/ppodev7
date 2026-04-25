@@ -51,13 +51,6 @@ This is just the beginning of my journey in tech. Feel free to check out my proj
   <img src="https://skillicons.dev/icons?i=git" height="40" alt="Git logo" />
 </div>
 <h2 align="left"> 🌐 Let's Connect </h2>
-<div align="center" style="display:flex; justify-content:center; gap:12px;">
-  <a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" />
-  </a>
-  
-  <a href="https://discord.com/users/770984336660627477" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord logo" />
-  </a>
+<div align="center">
+  <a href="https://www.linkedin.com/in/pedro-fidelis-mandoti-a615572b1/" target="_blank"><img src="https://skillicons.dev/icons?i=linkedin" width="52" height="40" alt="LinkedIn logo" /></a>&nbsp;&nbsp;<a href="https://discord.com/users/770984336660627477" target="_blank"><img src="https://skillicons.dev/icons?i=discord" width="52" height="40" alt="Discord logo" /></a>
 </div>
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=2AA889&height=100&section=footer" />
